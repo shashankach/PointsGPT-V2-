@@ -1,0 +1,9 @@
+#commands to install the required packages
+
+
+django
+openai
+requests
+beautifulsoup4
+dotenv
+
